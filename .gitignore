@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv
+venv/
+cashflow.db
+
+# Node
+node_modules/
+dist/
+.DS_Store
