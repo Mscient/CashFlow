@@ -1,9 +1,0 @@
-id,customer,amount,issue_date,due_date,status,paid_date,category
-8,Deepa Retail,88000.0,2026-07-29,2026-08-25,paid,2026-09-13,product
-3,Suresh & Sons,98000.0,2026-08-03,2026-09-02,overdue,,product
-5,Kavita Exports,65000.0,2026-08-08,2026-09-07,overdue,,product
-1,Rahul Enterprises,75000.0,2026-08-13,2026-09-12,unpaid,,product
-7,Sanjay Industries,55000.0,2026-08-15,2026-09-14,unpaid,,product
-2,Meera Traders,42000.0,2026-08-18,2026-09-17,unpaid,,service
-4,Priya Tech,33000.0,2026-08-23,2026-09-20,unpaid,,service
-6,Amit Wholesale,28000.0,2026-09-02,2026-09-27,unpaid,,wholesale
